@@ -9,12 +9,12 @@ class PrintListActivity : AppCompatActivity() {
 
     private val wordList: TextView get() = findViewById(R.id.word_list)
     private var words = listOf(
-        "this",
-        "is",
-        "your",
-        "standard",
-        "immutable",
-        "list"
+        "Greens",
+        "Beans",
+        "Potatoes",
+        "Tomatoes",
+        "Lamb",
+        "Ram"
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -26,8 +26,11 @@ class PrintListActivity : AppCompatActivity() {
 
     private fun combinedWords(): String {
         var combined = ""
-        for (idx in 0 until words.size + 1) {
-            combined += "${words[idx]}\n"
+//        for (idx in 0 until words.size) {
+//            combined += "${words[idx]}\n"
+//        }
+        for (word in words) {
+            combined += "$word\n"
         }
         return combined
     }
