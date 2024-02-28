@@ -31,16 +31,9 @@ The following EXTRA features are implemented:
 
 ## Video Demo
 
-Here's a video / GIF that demos all of the app's implemented features:
+Here's a link to a video that demos all of the app's implemented features:
 
-<img src='https://www.loom.com/share/cf86f91ead61441f8d1174886f83f453?sid=d39719ab-69c7-41df-93e1-8eae5f681eab' title='Video Demo' width='' alt='Video Demo' />
-
-GIF created with **your chosen GIF tool**
-
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
+https://www.loom.com/share/cf86f91ead61441f8d1174886f83f453?sid=d39719ab-69c7-41df-93e1-8eae5f681eab
 
 ## Notes
 
